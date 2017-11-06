@@ -1,4 +1,4 @@
 Introduction
 ===============================
 
-Here are my reports for the different kmoms.
+Här kan du bläddra igenom mina redovisningar för design-kursen.
