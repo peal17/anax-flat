@@ -1,8 +1,8 @@
 Information
 ==============================================
-<figure style="width:250px;float:right;margin:70px;margin-top:0;">
-<a href="https://en.wikipedia.org/wiki/Anaximander" target="blank"><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/AnaximanderRelief.jpg/1200px-AnaximanderRelief.jpg" alt="AnaximanderRelief.jpg"></a>
-</figure>
+
+<a href="https://en.wikipedia.org/wiki/Anaximander" target="blank">
+<img class="imgRight" style="width:250px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/AnaximanderRelief.jpg/1200px-AnaximanderRelief.jpg" alt="AnaximanderRelief.jpg"></a>
 
 Den här webbplatsen är resultat av arbete med dbwebb-kursen [*A1436 Teknisk webbdesign och användbarhet*](http://dbwebb.se/design) HT 2017.
 

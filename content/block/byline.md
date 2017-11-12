@@ -1,6 +1,6 @@
 
-<div style="width:600px;margin-left:80px;">
-    <figure style="float:left; margin:10px;">
+<div class="byline">
+    <figure>
         <div style="width:100px; height:120px; overflow:hidden;">
         <img src="img/me.jpg" alt="me" style="height:180px; object-fit: cover;margin:auto"/>
         </div>
