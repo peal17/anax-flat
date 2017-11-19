@@ -13,11 +13,11 @@ return [
 
         // Here comes the menu structure
         "items" => [
-            "index" => [
-                "text"  => t("Hem"),
-                "url"   => $this->di->get("url")->create("index"),
-                "title" => t("Petter")
-            ],
+            // "index" => [
+            //     "text"  => t("Hem"),
+            //     "url"   => $this->di->get("url")->create("index"),
+            //     "title" => t("Petter")
+            // ],
             "report" => [
                 "text"  => t("Redovisningar"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -29,6 +29,17 @@ return [
                 "text"  => t("Om sidan"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+            "Typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("About typography")
+            ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Grid"),
+                "mark-if-parent" => true,
             ],
 
         ],
@@ -63,6 +74,17 @@ return [
                 "text"  => t("Om sidan"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
+            ],
+            "Typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("About typography")
+            ],
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Grid"),
+                "mark-if-parent" => true,
             ],
         ],
     ],
