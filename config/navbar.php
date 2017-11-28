@@ -19,19 +19,19 @@ return [
             //     "title" => t("Petter")
             // ],
             "report" => [
-                "text"  => t("Redovisningar"),
+                "text"  => t("Redov"),
                 "url"   => $this->di->get("url")->create("report"),
                 "title" => t("Redovisning"),
                 "mark-if-parent" => true,
             ],
 
             "about" => [
-                "text"  => t("Om sidan"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
             "Typography" => [
-                "text"  => t("Typography"),
+                "text"  => t("Typ"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("About typography")
             ],
@@ -40,6 +40,16 @@ return [
                 "url"   => $this->di->get("url")->create("grid?vgrid"),
                 "title" => t("Grid"),
                 "mark-if-parent" => true,
+            ],
+            "theme" => [
+                "text"  => t("Theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme")
+            ],
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analys")
             ],
 
         ],
@@ -85,6 +95,21 @@ return [
                 "url"   => $this->di->get("url")->create("grid?vgrid"),
                 "title" => t("Grid"),
                 "mark-if-parent" => true,
+            ],
+            "theme" => [
+                "text"  => t("theme"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("theme")
+            ],
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("analys")
+            ],
+            "themeSel" => [
+                "text"  => t("Theme-selector"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("analys")
             ],
         ],
     ],
