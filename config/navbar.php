@@ -51,6 +51,16 @@ return [
                 "url"   => $this->di->get("url")->create("analysis"),
                 "title" => t("analys")
             ],
+            "blogg" => [
+                "text"  => t("blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("blogg")
+            ],
+            "images" => [
+                "text"  => t("images"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("images")
+            ],
 
         ],
     ],

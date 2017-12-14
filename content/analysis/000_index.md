@@ -1,5 +1,5 @@
 ---
-titleBreadcrumb: Reports
+titleBreadcrumb: Analysis
 ...
 Index
 ===============================

@@ -1,4 +1,4 @@
 Introduction
 ===============================
 
-Här kan du bläddra igenom mina redovisningar för design-kursen.
+Här kan du bläddra igenom mina analyser för design-kursen.
