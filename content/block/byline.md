@@ -1,4 +1,3 @@
-
 <div class="byline">
         <div class="byDiv">
         <img src="img/me.jpg" alt="me" style="height:180px; object-fit: cover;margin:auto"/>

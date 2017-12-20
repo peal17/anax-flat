@@ -81,5 +81,62 @@ return [
             "class"      => "fun",
             "stylesheets" => []
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "ElemTheme1"     =>  [
+            "title"      => "Photo, Opacity",
+            "class"      => "ElemTheme1",
+            "stylesheets" => ["css/elemTheme1.min.css",
+            "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+            "https://fonts.googleapis.com/css?family=Anton",
+            "https://fonts.googleapis.com/css?family=Josefin+Sans",
+            "https://fonts.googleapis.com/css?family=Abril+Fatface"
+            ]
+        ],
+
+        "ElemTheme2"     => [
+            "title"      => "Texture, Images, Fullsize",
+            "class"      => "ElemTheme2",
+            "stylesheets" => ["css/elemTheme2.min.css",
+            "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+            "https://fonts.googleapis.com/css?family=Anton",
+            "https://fonts.googleapis.com/css?family=Josefin+Sans",
+            "https://fonts.googleapis.com/css?family=Abril+Fatface"
+            ]
+        ],
+
+        "ElemTheme3"      => [
+            "title"      => "Gradient, lines",
+            "class"      => "ElemTheme3",
+            "stylesheets" => ["css/elemTheme3.min.css",
+            "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+            "https://fonts.googleapis.com/css?family=Anton",
+            "https://fonts.googleapis.com/css?family=Josefin+Sans",
+            "https://fonts.googleapis.com/css?family=Abril+Fatface"
+            ]
+        ],
+
+        "PrincTheme1"  => [
+            "title"      => "Scale-principle",
+            "class"      => "PrincTheme1",
+            "stylesheets" => ["css/princTheme1.min.css",
+            "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+            "https://fonts.googleapis.com/css?family=Anton",
+            "https://fonts.googleapis.com/css?family=Josefin+Sans",
+            "https://fonts.googleapis.com/css?family=Abril+Fatface"
+            ]
+        ],
+
+        "PrincTheme2" => [
+            "title"      => "Depth-principle",
+            "class"      => "PrincTheme2",
+            "stylesheets" => ["css/princTheme2.min.css",
+        "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://fonts.googleapis.com/css?family=Anton",
+        "https://fonts.googleapis.com/css?family=Josefin+Sans",
+        "https://fonts.googleapis.com/css?family=Abril+Fatface"
+            ]
+        ],
     ]
 ];

@@ -1,3 +1,8 @@
+Color themes
+==============================================
+
+[Themeselector](theme-selector)  
+
 **Light**  
 <div style="height: 50px; width: 50px; margin:4px; float:left; border:1px solid black; background-color: #fff;"></div>
 <div style="height: 50px; width: 50px; margin:4px; float:left; border:1px solid black; background-color: #eee"></div>

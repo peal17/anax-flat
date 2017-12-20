@@ -1,4 +1,4 @@
-Theme analysis
+Color scheme
 ===============================
 
 *Jag har valt ut tre museer att analysera. Jag ville använda tre likvärdiga webbplatser med liknande agenda men kanske lite olika profil.
